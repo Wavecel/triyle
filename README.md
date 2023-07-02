@@ -1,3 +1,3 @@
 # triyleapp
-<img  src="FlutterApp.jpg"/ style="width: 300; height: 400; object-fit: cover;">
+<img  src="FlutterApp.jpg"/ style="width: 300; height: 400;">
 gaming comunity
